@@ -1,0 +1,6 @@
+# Kovan Addresses
+
+## GelatoCore: "0x4E2Ca0093028C8401C93AaCcCaF59288CA6fb728"
+## Executor Address: "0x203AdbbA2402a36C202F207caA8ce81f1A4c7a72"
+## Price on Kyber Condition: "0x4c741109e77D579754AcA15753fa34FA02CBb154"
+## TransferFrom Action: "0x99cB92f9f853918773de899EBCd942f50f9A6ABb"
